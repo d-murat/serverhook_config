@@ -1,0 +1,2 @@
+# Define the start date for commit message checks (format: YYYY-MM-DD)
+START_DATE=YYYY-MM-DD
